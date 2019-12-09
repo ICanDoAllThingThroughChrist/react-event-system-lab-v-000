@@ -19,4 +19,4 @@ class EyesOnMe extends React.Component {
   }
 }
 
-export default EyesOnMe
+export default EyesOnMe;
